@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KatlegoPhoka
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning software development @wethinkcode
+- 🌱 I’m currently learn how to code in javascript 
+- fluent in python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
